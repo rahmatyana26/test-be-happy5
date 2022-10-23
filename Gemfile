@@ -24,6 +24,9 @@ gem "puma", "~> 5.0"
 # Use Active Model has_secure_password [https://guides.rubyonrails.org/active_model_basics.html#securepassword]
 gem "bcrypt", "~> 3.1.7"
 
+#active model
+gem 'active_model_serializers', '~> 0.10.0'
+
 # jwt 
 gem 'jwt'
 
