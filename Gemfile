@@ -30,6 +30,12 @@ gem 'active_model_serializers', '~> 0.10.0'
 # jwt 
 gem 'jwt'
 
+#will paginate
+gem 'will_paginate', '~> 3.3.1'
+
+# faker
+gem 'faker'
+
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem "tzinfo-data", platforms: %i[ mingw mswin x64_mingw jruby ]
 
